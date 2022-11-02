@@ -1,3 +1,8 @@
+### asidar-lib
+<div>
+	<img src="https://img.shields.io/bundlephobia/min/asidar-lib" />
+	<img src="https://img.shields.io/bundlephobia/minzip/asidar-lib" />
+</div>
 
 ##  Installation
 
