@@ -1,4 +1,6 @@
-### asidar-lib
+# asidar-lib
+Simple package can be used to convert and download youtube videos a `mp3` files to your local machine.
+
 <div>
 	<img src="https://img.shields.io/bundlephobia/min/asidar-lib" />
 	<img src="https://img.shields.io/bundlephobia/minzip/asidar-lib" />
